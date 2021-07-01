@@ -1,7 +1,7 @@
 - Hello, I’m neriazadok
-- More information
-- More information
-- More information
+- Experienced with Java and C#
+- Learning c++
+- דובר עברית
 
 <!---
 כל מה שכתוב מחוץ להערה הזאת יופיע בפרופיל
