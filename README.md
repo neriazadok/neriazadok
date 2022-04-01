@@ -1,6 +1,5 @@
 - Hello, I’m neriazadok
-- Experienced with Java and C#
-- Learning C++
+- Experienced with C++ Java and C#
 - דובר עברית
 
 <!---
